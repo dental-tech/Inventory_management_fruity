@@ -1,0 +1,63 @@
+{
+  "plugins": {
+    "audio": {
+            "sounds": [
+                                                  {
+                "id": "audio_ding_sound_82f202",
+                "src": "https://d1w2zhnqcy4l8f.cloudfront.net/7a824776236e88c7b2d55ace2ffdac12.mp3",
+                "volume": 1
+              }
+                                      ]
+    },
+    "control": {},
+    "decision": {},
+    "urls": {},
+    "ui": {},
+    "overlays": {
+      "defaultOptions": {
+                  "width": 854,
+          "height": 480
+              }
+    },
+    "sentry": {
+      "mode": "production"
+    },
+        "outline": {
+            "nodes": {
+                  "node_empty_plate_6342bf":
+          {
+                        "name": "Empty plate",
+            "title": "",
+            "summary": ""          } ,                   "node_orange_and_banana_on_plate_d91bab":
+          {
+                        "name": "orange and banana on plate",
+            "title": "",
+            "summary": ""          } ,                   "node_orange_on_plate_4c07f4":
+          {
+                        "name": "orange on plate",
+            "title": "",
+            "summary": ""          } ,                   "node_banana_on_plate_f573b4":
+          {
+                        "name": "banana on plate",
+            "title": "",
+            "summary": ""          }                    }
+    },
+        "analytics": {}
+
+  },
+  "fullscreenOrientation": "landscape",
+  "scaling": "panAndScan",
+    "panAndScanMinVisibleWidth": "0.7",
+      "panAndScanMinVisibleHeight": "0.7",
+  
+    "ivdMediaBaseUrl": {
+          "cf": "https://d1w2zhnqcy4l8f.cloudfront.net"
+    },
+        
+    "SegmentFactory": {
+      "limitDevicesBitrate": false
+    },
+        "EngineTech": {
+      "enableMseOnWinChrome51": true
+    }
+}

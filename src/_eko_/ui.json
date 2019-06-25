@@ -1,0 +1,1300 @@
+{
+    "apiVersion": "3.26.0-85",
+    "guiControllers": [
+        {
+            "id": "node_banana_first_take_banana_cb135e",
+            "type": "DECISION",
+            "config": {
+                "showInNodes": [
+                    "node_banana_first_take_banana_cb135e"
+                ],
+                "hideInNodesEnd": [
+                    "node_banana_first_take_banana_cb135e"
+                ],
+                "userSelectionDisappearDelay": 2.5,
+                "autoSelectionDisappearDelay": 3.5
+            }
+        },
+        {
+            "id": "node_banana_first_took_banana_idle_91392e",
+            "type": "DECISION",
+            "config": {
+                "showInNodes": [
+                    "node_banana_first_took_banana_idle_91392e"
+                ],
+                "hideInNodesEnd": [
+                    "node_banana_first_took_banana_idle_91392e"
+                ],
+                "userSelectionDisappearDelay": 2.5,
+                "autoSelectionDisappearDelay": 3.5
+            }
+        },
+        {
+            "id": "node_banana_first_take_orange_e7f48e",
+            "type": "DECISION",
+            "config": {
+                "showInNodes": [
+                    "node_banana_first_take_orange_e7f48e"
+                ],
+                "hideInNodesEnd": [
+                    "node_banana_first_take_orange_e7f48e"
+                ],
+                "userSelectionDisappearDelay": 2.5,
+                "autoSelectionDisappearDelay": 3.5
+            }
+        },
+        {
+            "id": "node_banana_first_took_both_idle_e9fabc",
+            "type": "DECISION",
+            "config": {
+                "showInNodes": [
+                    "node_banana_first_took_both_idle_e9fabc"
+                ],
+                "hideInNodesEnd": [
+                    "node_banana_first_took_both_idle_e9fabc"
+                ],
+                "userSelectionDisappearDelay": 2.5,
+                "autoSelectionDisappearDelay": 3.5
+            }
+        },
+        {
+            "id": "node_orange_first_take_orange_dbb620",
+            "type": "DECISION",
+            "config": {
+                "showInNodes": [
+                    "node_orange_first_take_orange_dbb620"
+                ],
+                "hideInNodesEnd": [
+                    "node_orange_first_take_orange_dbb620"
+                ],
+                "userSelectionDisappearDelay": 2.5,
+                "autoSelectionDisappearDelay": 3.5
+            }
+        },
+        {
+            "id": "node_orange_first_took_orange_271820",
+            "type": "DECISION",
+            "config": {
+                "showInNodes": [
+                    "node_orange_first_took_orange_271820"
+                ],
+                "hideInNodesEnd": [
+                    "node_orange_first_took_orange_271820"
+                ],
+                "userSelectionDisappearDelay": 2.5,
+                "autoSelectionDisappearDelay": 3.5
+            }
+        },
+        {
+            "id": "node_orange_first_take_banana_46891d",
+            "type": "DECISION",
+            "config": {
+                "showInNodes": [
+                    "node_orange_first_take_banana_46891d"
+                ],
+                "hideInNodesEnd": [
+                    "node_orange_first_take_banana_46891d"
+                ],
+                "userSelectionDisappearDelay": 2.5,
+                "autoSelectionDisappearDelay": 3.5
+            }
+        },
+        {
+            "id": "node_orange_first_took_both_idle_73cc3c",
+            "type": "DECISION",
+            "config": {
+                "showInNodes": [
+                    "node_orange_first_took_both_idle_73cc3c"
+                ],
+                "hideInNodesEnd": [
+                    "node_orange_first_took_both_idle_73cc3c"
+                ],
+                "userSelectionDisappearDelay": 2.5,
+                "autoSelectionDisappearDelay": 3.5
+            }
+        },
+        {
+            "id": "node_empty_plate_6342bf",
+            "type": "DECISION",
+            "config": {
+                "showInNodes": [
+                    "node_empty_plate_6342bf"
+                ],
+                "hideInNodesEnd": [
+                    "node_empty_plate_6342bf"
+                ],
+                "userSelectionDisappearDelay": 2.5,
+                "autoSelectionDisappearDelay": 3.5
+            }
+        },
+        {
+            "id": "node_orange_and_banana_on_plate_d91bab",
+            "type": "DECISION",
+            "config": {
+                "showInNodes": [
+                    "node_orange_and_banana_on_plate_d91bab"
+                ],
+                "hideInNodesEnd": [
+                    "node_orange_and_banana_on_plate_d91bab"
+                ],
+                "userSelectionDisappearDelay": 2.5,
+                "autoSelectionDisappearDelay": 3.5
+            }
+        },
+        {
+            "id": "node_orange_on_plate_4c07f4",
+            "type": "DECISION",
+            "config": {
+                "showInNodes": [
+                    "node_orange_on_plate_4c07f4"
+                ],
+                "hideInNodesEnd": [
+                    "node_orange_on_plate_4c07f4"
+                ],
+                "userSelectionDisappearDelay": 2.5,
+                "autoSelectionDisappearDelay": 3.5
+            }
+        },
+        {
+            "id": "node_banana_on_plate_f573b4",
+            "type": "DECISION",
+            "config": {
+                "showInNodes": [
+                    "node_banana_on_plate_f573b4"
+                ],
+                "hideInNodesEnd": [
+                    "node_banana_on_plate_f573b4"
+                ],
+                "userSelectionDisappearDelay": 2.5,
+                "autoSelectionDisappearDelay": 3.5
+            }
+        },
+        {
+            "id": "node_orange_first_idle_abe8ee",
+            "type": "DECISION",
+            "config": {
+                "showInNodes": [
+                    "node_orange_first_idle_abe8ee"
+                ],
+                "hideInNodesEnd": [
+                    "node_orange_first_idle_abe8ee"
+                ],
+                "userSelectionDisappearDelay": 2.5,
+                "autoSelectionDisappearDelay": 3.5
+            }
+        }
+    ],
+    "gui": [
+        {
+            "id": "1c1f3fa0-127e-11e9-85c1-cb7a601e9cba",
+            "component": "EkoGroup",
+            "props": {
+                "config": {
+                    "parentElement": "root",
+                    "enableTransition": true,
+                    "stateSourceId": "node_banana_first_take_banana_cb135e",
+                    "fitToVideo": true,
+                    "transitionInDuration": 0.60000002384186,
+                    "transitionOutDuration": 0.60000002384186,
+                    "children": [
+                        "timer_banana_first_take_banana_1ebd2d",
+                        "button_banana_first_take_banana_be912c"
+                    ]
+                }
+            }
+        },
+        {
+            "id": "timer_banana_first_take_banana_1ebd2d",
+            "props": {
+                "config": {
+                    "stateSourceId": "node_banana_first_take_banana_cb135e",
+                    "parentElement": null,
+                    "enableTransition": false,
+                    "text": "Timer1",
+                    "style": {
+                        "top": 35,
+                        "left": 759,
+                        "width": "60px",
+                        "height": "60px",
+                        "visibility": "hidden",
+                        "opacity": 1,
+                        "transform": "rotate(0deg)",
+                        "transformOrigin": "0 0",
+                        "--font": "Nixie One",
+                        "--color": "#F3F4F4"
+                    },
+                    "handlers": [
+
+                    ]
+                }
+            },
+            "component": "LegacyPureTimer"
+        },
+        {
+            "id": "button_banana_first_take_banana_be912c",
+            "props": {
+                "config": {
+                    "stateSourceId": "node_banana_first_take_banana_cb135e",
+                    "parentElement": null,
+                    "enableTransition": false,
+                    "text": "banana first took banana idle",
+                    "style": {
+                        "top": 334,
+                        "left": 204,
+                        "width": "417px",
+                        "height": "46px",
+                        "visibility": "hidden",
+                        "opacity": 1,
+                        "transform": "rotate(0deg)",
+                        "transformOrigin": "0 0",
+                        "--color": "#61C9DB",
+                        "--font": "Roboto Slab",
+                        "--font-size": "26px",
+                        "--text-color": "#ffffff",
+                        "--line-height": "26px",
+                        "--letter-spacing": "1",
+                        "--text-align": "center",
+                        "--text-box-align": "center",
+                        "--text-box-vertical-align": "center",
+                        "--word-wrap": "nowrap"
+                    },
+                    "handlers": [
+                        {
+                            "type": "DECISION_SELECT",
+                            "decisionId": "node_banana_first_take_banana_cb135e",
+                            "targetNode": "node_banana_first_took_banana_idle_91392e",
+                            "connectOn": "NODE_END"
+                        },
+                        {
+                            "type": "PLAY_SOUND",
+                            "audioId": "audio_ding_sound_82f202"
+                        },
+                        {
+                            "type": "REPORT_INTERACTION",
+                            "id": "button_banana_first_take_banana_be912c",
+                            "data": {
+
+                            },
+                            "options": {
+                                "trackAnalytics": true,
+                                "analyticsData": {
+                                    "interactionElementName": "button_banana_first_take_banana_be912c",
+                                    "interactionTriggerType": "click",
+                                    "interactionActionType": "decision",
+                                    "interactionSelectedNodeId": "node_banana_first_took_banana_idle_91392e"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "component": "LegacyDefaultButton"
+        },
+        {
+            "id": "21749ae0-127e-11e9-85c1-cb7a601e9cba",
+            "component": "EkoGroup",
+            "props": {
+                "config": {
+                    "parentElement": "root",
+                    "enableTransition": true,
+                    "stateSourceId": "node_banana_first_took_banana_idle_91392e",
+                    "fitToVideo": true,
+                    "transitionInDuration": 0.60000002384186,
+                    "transitionOutDuration": 0.60000002384186,
+                    "children": [
+                        "button_banana_first_took_banana_idle_c3b740",
+                        "button_banana_first_took_banana_idle_5f40d4"
+                    ]
+                }
+            }
+        },
+        {
+            "id": "button_banana_first_took_banana_idle_c3b740",
+            "props": {
+                "config": {
+                    "stateSourceId": "node_banana_first_took_banana_idle_91392e",
+                    "parentElement": null,
+                    "enableTransition": false,
+                    "text": "banana first took banana idle",
+                    "style": {
+                        "top": 251,
+                        "left": 413,
+                        "width": "196px",
+                        "height": "46px",
+                        "visibility": "hidden",
+                        "opacity": 1,
+                        "transform": "rotate(0deg)",
+                        "transformOrigin": "0 0",
+                        "--color": "#f4ff14",
+                        "--bg-color": "#4e2727",
+                        "--font": "Dosis",
+                        "--font-size": "26px",
+                        "--text-color": "#ffffff",
+                        "--line-height": "26px",
+                        "--letter-spacing": "1",
+                        "--text-align": "center",
+                        "--text-box-align": "center",
+                        "--text-box-vertical-align": "center",
+                        "--word-wrap": "nowrap"
+                    },
+                    "handlers": [
+                        {
+                            "type": "DECISION_SELECT",
+                            "decisionId": "node_banana_first_took_banana_idle_91392e",
+                            "targetNode": "node_banana_first_took_banana_idle_91392e",
+                            "connectOn": "NODE_END"
+                        },
+                        {
+                            "type": "PLAY_SOUND",
+                            "audioId": "audio_ding_sound_82f202"
+                        },
+                        {
+                            "type": "REPORT_INTERACTION",
+                            "id": "button_banana_first_took_banana_idle_c3b740",
+                            "data": {
+
+                            },
+                            "options": {
+                                "trackAnalytics": true,
+                                "analyticsData": {
+                                    "interactionElementName": "button_banana_first_took_banana_idle_c3b740",
+                                    "interactionTriggerType": "click",
+                                    "interactionActionType": "decision",
+                                    "interactionSelectedNodeId": "node_banana_first_took_banana_idle_91392e"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "component": "LegacyTagButton"
+        },
+        {
+            "id": "button_banana_first_took_banana_idle_5f40d4",
+            "props": {
+                "config": {
+                    "stateSourceId": "node_banana_first_took_banana_idle_91392e",
+                    "parentElement": null,
+                    "enableTransition": false,
+                    "text": "Take Orange",
+                    "style": {
+                        "top": 198,
+                        "left": 412,
+                        "width": "200px",
+                        "height": "46px",
+                        "visibility": "visible",
+                        "opacity": 1,
+                        "transform": "rotate(0deg)",
+                        "transformOrigin": "0 0",
+                        "--color": "#ff9600",
+                        "--bg-color": "black",
+                        "--font": "Dosis",
+                        "--font-size": "26px",
+                        "--text-color": "#ffffff",
+                        "--line-height": "26px",
+                        "--letter-spacing": "1",
+                        "--text-align": "center",
+                        "--text-box-align": "center",
+                        "--text-box-vertical-align": "center",
+                        "--word-wrap": "nowrap"
+                    },
+                    "handlers": [
+                        {
+                            "type": "DECISION_SELECT",
+                            "decisionId": "node_banana_first_took_banana_idle_91392e",
+                            "targetNode": "node_banana_first_take_orange_e7f48e",
+                            "connectOn": "CLICK"
+                        },
+                        {
+                            "type": "PLAY_SOUND",
+                            "audioId": "audio_ding_sound_82f202"
+                        },
+                        {
+                            "type": "REPORT_INTERACTION",
+                            "id": "button_banana_first_took_banana_idle_5f40d4",
+                            "data": {
+
+                            },
+                            "options": {
+                                "trackAnalytics": true,
+                                "analyticsData": {
+                                    "interactionElementName": "button_banana_first_took_banana_idle_5f40d4",
+                                    "interactionTriggerType": "click",
+                                    "interactionActionType": "decision",
+                                    "interactionSelectedNodeId": "node_banana_first_take_orange_e7f48e"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "component": "LegacyTagButton"
+        },
+        {
+            "id": "2880cde0-127e-11e9-85c1-cb7a601e9cba",
+            "component": "EkoGroup",
+            "props": {
+                "config": {
+                    "parentElement": "root",
+                    "enableTransition": true,
+                    "stateSourceId": "node_banana_first_take_orange_e7f48e",
+                    "fitToVideo": true,
+                    "transitionInDuration": 0.60000002384186,
+                    "transitionOutDuration": 0.60000002384186,
+                    "children": [
+                        "timer_banana_first_take_orange_d6754d",
+                        "button_banana_first_take_orange_28e0d7"
+                    ]
+                }
+            }
+        },
+        {
+            "id": "timer_banana_first_take_orange_d6754d",
+            "props": {
+                "config": {
+                    "stateSourceId": "node_banana_first_take_orange_e7f48e",
+                    "parentElement": null,
+                    "enableTransition": false,
+                    "text": "Timer1",
+                    "style": {
+                        "top": 35,
+                        "left": 759,
+                        "width": "60px",
+                        "height": "60px",
+                        "visibility": "hidden",
+                        "opacity": 1,
+                        "transform": "rotate(0deg)",
+                        "transformOrigin": "0 0",
+                        "--font": "Nixie One",
+                        "--color": "#F3F4F4"
+                    },
+                    "handlers": [
+
+                    ]
+                }
+            },
+            "component": "LegacyPureTimer"
+        },
+        {
+            "id": "button_banana_first_take_orange_28e0d7",
+            "props": {
+                "config": {
+                    "stateSourceId": "node_banana_first_take_orange_e7f48e",
+                    "parentElement": null,
+                    "enableTransition": false,
+                    "text": "banana first took both idle",
+                    "style": {
+                        "top": 334,
+                        "left": 223,
+                        "width": "379px",
+                        "height": "46px",
+                        "visibility": "hidden",
+                        "opacity": 1,
+                        "transform": "rotate(0deg)",
+                        "transformOrigin": "0 0",
+                        "--color": "#61C9DB",
+                        "--font": "Roboto Slab",
+                        "--font-size": "26px",
+                        "--text-color": "#ffffff",
+                        "--line-height": "26px",
+                        "--letter-spacing": "1",
+                        "--text-align": "center",
+                        "--text-box-align": "center",
+                        "--text-box-vertical-align": "center",
+                        "--word-wrap": "nowrap"
+                    },
+                    "handlers": [
+                        {
+                            "type": "DECISION_SELECT",
+                            "decisionId": "node_banana_first_take_orange_e7f48e",
+                            "targetNode": "node_banana_first_took_both_idle_e9fabc",
+                            "connectOn": "NODE_END"
+                        },
+                        {
+                            "type": "PLAY_SOUND",
+                            "audioId": "audio_ding_sound_82f202"
+                        },
+                        {
+                            "type": "REPORT_INTERACTION",
+                            "id": "button_banana_first_take_orange_28e0d7",
+                            "data": {
+
+                            },
+                            "options": {
+                                "trackAnalytics": true,
+                                "analyticsData": {
+                                    "interactionElementName": "button_banana_first_take_orange_28e0d7",
+                                    "interactionTriggerType": "click",
+                                    "interactionActionType": "decision",
+                                    "interactionSelectedNodeId": "node_banana_first_took_both_idle_e9fabc"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "component": "LegacyDefaultButton"
+        },
+        {
+            "id": "2ba2a750-127e-11e9-85c1-cb7a601e9cba",
+            "component": "EkoGroup",
+            "props": {
+                "config": {
+                    "parentElement": "root",
+                    "enableTransition": true,
+                    "stateSourceId": "node_banana_first_took_both_idle_e9fabc",
+                    "fitToVideo": true,
+                    "transitionInDuration": 0.60000002384186,
+                    "transitionOutDuration": 0.60000002384186,
+                    "children": [
+                        "timer_banana_first_took_both_idle_cf7a30",
+                        "button_banana_first_took_both_idle_e17c66"
+                    ]
+                }
+            }
+        },
+        {
+            "id": "timer_banana_first_took_both_idle_cf7a30",
+            "props": {
+                "config": {
+                    "stateSourceId": "node_banana_first_took_both_idle_e9fabc",
+                    "parentElement": null,
+                    "enableTransition": false,
+                    "text": "Timer1",
+                    "style": {
+                        "top": 35,
+                        "left": 759,
+                        "width": "60px",
+                        "height": "60px",
+                        "visibility": "hidden",
+                        "opacity": 1,
+                        "transform": "rotate(0deg)",
+                        "transformOrigin": "0 0",
+                        "--font": "Nixie One",
+                        "--color": "#F3F4F4"
+                    },
+                    "handlers": [
+
+                    ]
+                }
+            },
+            "component": "LegacyPureTimer"
+        },
+        {
+            "id": "button_banana_first_took_both_idle_e17c66",
+            "props": {
+                "config": {
+                    "stateSourceId": "node_banana_first_took_both_idle_e9fabc",
+                    "parentElement": null,
+                    "enableTransition": false,
+                    "text": "banana first took both idle",
+                    "style": {
+                        "top": 334,
+                        "left": 223,
+                        "width": "379px",
+                        "height": "46px",
+                        "visibility": "hidden",
+                        "opacity": 1,
+                        "transform": "rotate(0deg)",
+                        "transformOrigin": "0 0",
+                        "--color": "#61C9DB",
+                        "--font": "Roboto Slab",
+                        "--font-size": "26px",
+                        "--text-color": "#ffffff",
+                        "--line-height": "26px",
+                        "--letter-spacing": "1",
+                        "--text-align": "center",
+                        "--text-box-align": "center",
+                        "--text-box-vertical-align": "center",
+                        "--word-wrap": "nowrap"
+                    },
+                    "handlers": [
+                        {
+                            "type": "DECISION_SELECT",
+                            "decisionId": "node_banana_first_took_both_idle_e9fabc",
+                            "targetNode": "node_banana_first_took_both_idle_e9fabc",
+                            "connectOn": "NODE_END"
+                        },
+                        {
+                            "type": "PLAY_SOUND",
+                            "audioId": "audio_ding_sound_82f202"
+                        },
+                        {
+                            "type": "REPORT_INTERACTION",
+                            "id": "button_banana_first_took_both_idle_e17c66",
+                            "data": {
+
+                            },
+                            "options": {
+                                "trackAnalytics": true,
+                                "analyticsData": {
+                                    "interactionElementName": "button_banana_first_took_both_idle_e17c66",
+                                    "interactionTriggerType": "click",
+                                    "interactionActionType": "decision",
+                                    "interactionSelectedNodeId": "node_banana_first_took_both_idle_e9fabc"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "component": "LegacyDefaultButton"
+        },
+        {
+            "id": "3d17a5d0-127e-11e9-85c1-cb7a601e9cba",
+            "component": "EkoGroup",
+            "props": {
+                "config": {
+                    "parentElement": "root",
+                    "enableTransition": true,
+                    "stateSourceId": "node_orange_first_take_orange_dbb620",
+                    "fitToVideo": true,
+                    "transitionInDuration": 0.60000002384186,
+                    "transitionOutDuration": 0.60000002384186,
+                    "children": [
+                        "timer_orange_first_take_orange_892684",
+                        "button_orange_first_take_orange_fa771b"
+                    ]
+                }
+            }
+        },
+        {
+            "id": "timer_orange_first_take_orange_892684",
+            "props": {
+                "config": {
+                    "stateSourceId": "node_orange_first_take_orange_dbb620",
+                    "parentElement": null,
+                    "enableTransition": false,
+                    "text": "Timer1",
+                    "style": {
+                        "top": 35,
+                        "left": 759,
+                        "width": "60px",
+                        "height": "60px",
+                        "visibility": "hidden",
+                        "opacity": 1,
+                        "transform": "rotate(0deg)",
+                        "transformOrigin": "0 0",
+                        "--font": "Nixie One",
+                        "--color": "#F3F4F4"
+                    },
+                    "handlers": [
+
+                    ]
+                }
+            },
+            "component": "LegacyPureTimer"
+        },
+        {
+            "id": "button_orange_first_take_orange_fa771b",
+            "props": {
+                "config": {
+                    "stateSourceId": "node_orange_first_take_orange_dbb620",
+                    "parentElement": null,
+                    "enableTransition": false,
+                    "text": "orange first took orange",
+                    "style": {
+                        "top": 334,
+                        "left": 240,
+                        "width": "346px",
+                        "height": "46px",
+                        "visibility": "hidden",
+                        "opacity": 1,
+                        "transform": "rotate(0deg)",
+                        "transformOrigin": "0 0",
+                        "--color": "#61C9DB",
+                        "--font": "Roboto Slab",
+                        "--font-size": "26px",
+                        "--text-color": "#ffffff",
+                        "--line-height": "26px",
+                        "--letter-spacing": "1",
+                        "--text-align": "center",
+                        "--text-box-align": "center",
+                        "--text-box-vertical-align": "center",
+                        "--word-wrap": "nowrap"
+                    },
+                    "handlers": [
+                        {
+                            "type": "DECISION_SELECT",
+                            "decisionId": "node_orange_first_take_orange_dbb620",
+                            "targetNode": "node_orange_first_took_orange_271820",
+                            "connectOn": "NODE_END"
+                        },
+                        {
+                            "type": "PLAY_SOUND",
+                            "audioId": "audio_ding_sound_82f202"
+                        },
+                        {
+                            "type": "REPORT_INTERACTION",
+                            "id": "button_orange_first_take_orange_fa771b",
+                            "data": {
+
+                            },
+                            "options": {
+                                "trackAnalytics": true,
+                                "analyticsData": {
+                                    "interactionElementName": "button_orange_first_take_orange_fa771b",
+                                    "interactionTriggerType": "click",
+                                    "interactionActionType": "decision",
+                                    "interactionSelectedNodeId": "node_orange_first_took_orange_271820"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "component": "LegacyDefaultButton"
+        },
+        {
+            "id": "3df9a160-127e-11e9-85c1-cb7a601e9cba",
+            "component": "EkoGroup",
+            "props": {
+                "config": {
+                    "parentElement": "root",
+                    "enableTransition": true,
+                    "stateSourceId": "node_orange_first_took_orange_271820",
+                    "fitToVideo": true,
+                    "transitionInDuration": 0.60000002384186,
+                    "transitionOutDuration": 0.60000002384186,
+                    "children": [
+                        "button_orange_first_took_orange_6bb431",
+                        "button_orange_first_took_orange_e4ff61"
+                    ]
+                }
+            }
+        },
+        {
+            "id": "button_orange_first_took_orange_6bb431",
+            "props": {
+                "config": {
+                    "stateSourceId": "node_orange_first_took_orange_271820",
+                    "parentElement": null,
+                    "enableTransition": false,
+                    "text": "Take Banana",
+                    "style": {
+                        "top": 251,
+                        "left": 414,
+                        "width": "196px",
+                        "height": "46px",
+                        "visibility": "visible",
+                        "opacity": 1,
+                        "transform": "rotate(0deg)",
+                        "transformOrigin": "0 0",
+                        "--color": "#f4ff14",
+                        "--bg-color": "#4e2727",
+                        "--font": "Dosis",
+                        "--font-size": "26px",
+                        "--text-color": "#ffffff",
+                        "--line-height": "26px",
+                        "--letter-spacing": "1",
+                        "--text-align": "center",
+                        "--text-box-align": "center",
+                        "--text-box-vertical-align": "center",
+                        "--word-wrap": "nowrap"
+                    },
+                    "handlers": [
+                        {
+                            "type": "DECISION_SELECT",
+                            "decisionId": "node_orange_first_took_orange_271820",
+                            "targetNode": "node_orange_first_take_banana_46891d",
+                            "connectOn": "CLICK"
+                        },
+                        {
+                            "type": "PLAY_SOUND",
+                            "audioId": "audio_ding_sound_82f202"
+                        },
+                        {
+                            "type": "REPORT_INTERACTION",
+                            "id": "button_orange_first_took_orange_6bb431",
+                            "data": {
+
+                            },
+                            "options": {
+                                "trackAnalytics": true,
+                                "analyticsData": {
+                                    "interactionElementName": "button_orange_first_took_orange_6bb431",
+                                    "interactionTriggerType": "click",
+                                    "interactionActionType": "decision",
+                                    "interactionSelectedNodeId": "node_orange_first_take_banana_46891d"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "component": "LegacyTagButton"
+        },
+        {
+            "id": "button_orange_first_took_orange_e4ff61",
+            "props": {
+                "config": {
+                    "stateSourceId": "node_orange_first_took_orange_271820",
+                    "parentElement": null,
+                    "enableTransition": false,
+                    "text": "orange first took orange",
+                    "style": {
+                        "top": 198,
+                        "left": 412,
+                        "width": "200px",
+                        "height": "46px",
+                        "visibility": "hidden",
+                        "opacity": 1,
+                        "transform": "rotate(0deg)",
+                        "transformOrigin": "0 0",
+                        "--color": "#ff9600",
+                        "--bg-color": "black",
+                        "--font": "Dosis",
+                        "--font-size": "26px",
+                        "--text-color": "#ffffff",
+                        "--line-height": "26px",
+                        "--letter-spacing": "1",
+                        "--text-align": "center",
+                        "--text-box-align": "center",
+                        "--text-box-vertical-align": "center",
+                        "--word-wrap": "nowrap"
+                    },
+                    "handlers": [
+                        {
+                            "type": "DECISION_SELECT",
+                            "decisionId": "node_orange_first_took_orange_271820",
+                            "targetNode": "node_orange_first_took_orange_271820",
+                            "connectOn": "NODE_END"
+                        },
+                        {
+                            "type": "PLAY_SOUND",
+                            "audioId": "audio_ding_sound_82f202"
+                        },
+                        {
+                            "type": "REPORT_INTERACTION",
+                            "id": "button_orange_first_took_orange_e4ff61",
+                            "data": {
+
+                            },
+                            "options": {
+                                "trackAnalytics": true,
+                                "analyticsData": {
+                                    "interactionElementName": "button_orange_first_took_orange_e4ff61",
+                                    "interactionTriggerType": "click",
+                                    "interactionActionType": "decision",
+                                    "interactionSelectedNodeId": "node_orange_first_took_orange_271820"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "component": "LegacyTagButton"
+        },
+        {
+            "id": "47177650-127e-11e9-85c1-cb7a601e9cba",
+            "component": "EkoGroup",
+            "props": {
+                "config": {
+                    "parentElement": "root",
+                    "enableTransition": true,
+                    "stateSourceId": "node_orange_first_take_banana_46891d",
+                    "fitToVideo": true,
+                    "transitionInDuration": 0.60000002384186,
+                    "transitionOutDuration": 0.60000002384186,
+                    "children": [
+                        "timer_orange_first_take_banana_46b9af",
+                        "button_orange_first_take_banana_438ee3"
+                    ]
+                }
+            }
+        },
+        {
+            "id": "timer_orange_first_take_banana_46b9af",
+            "props": {
+                "config": {
+                    "stateSourceId": "node_orange_first_take_banana_46891d",
+                    "parentElement": null,
+                    "enableTransition": false,
+                    "text": "Timer1",
+                    "style": {
+                        "top": 35,
+                        "left": 759,
+                        "width": "60px",
+                        "height": "60px",
+                        "visibility": "hidden",
+                        "opacity": 1,
+                        "transform": "rotate(0deg)",
+                        "transformOrigin": "0 0",
+                        "--font": "Nixie One",
+                        "--color": "#F3F4F4"
+                    },
+                    "handlers": [
+
+                    ]
+                }
+            },
+            "component": "LegacyPureTimer"
+        },
+        {
+            "id": "button_orange_first_take_banana_438ee3",
+            "props": {
+                "config": {
+                    "stateSourceId": "node_orange_first_take_banana_46891d",
+                    "parentElement": null,
+                    "enableTransition": false,
+                    "text": "orange first took both idle",
+                    "style": {
+                        "top": 334,
+                        "left": 226,
+                        "width": "373px",
+                        "height": "46px",
+                        "visibility": "hidden",
+                        "opacity": 1,
+                        "transform": "rotate(0deg)",
+                        "transformOrigin": "0 0",
+                        "--color": "#61C9DB",
+                        "--font": "Roboto Slab",
+                        "--font-size": "26px",
+                        "--text-color": "#ffffff",
+                        "--line-height": "26px",
+                        "--letter-spacing": "1",
+                        "--text-align": "center",
+                        "--text-box-align": "center",
+                        "--text-box-vertical-align": "center",
+                        "--word-wrap": "nowrap"
+                    },
+                    "handlers": [
+                        {
+                            "type": "DECISION_SELECT",
+                            "decisionId": "node_orange_first_take_banana_46891d",
+                            "targetNode": "node_orange_first_took_both_idle_73cc3c",
+                            "connectOn": "NODE_END"
+                        },
+                        {
+                            "type": "PLAY_SOUND",
+                            "audioId": "audio_ding_sound_82f202"
+                        },
+                        {
+                            "type": "REPORT_INTERACTION",
+                            "id": "button_orange_first_take_banana_438ee3",
+                            "data": {
+
+                            },
+                            "options": {
+                                "trackAnalytics": true,
+                                "analyticsData": {
+                                    "interactionElementName": "button_orange_first_take_banana_438ee3",
+                                    "interactionTriggerType": "click",
+                                    "interactionActionType": "decision",
+                                    "interactionSelectedNodeId": "node_orange_first_took_both_idle_73cc3c"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "component": "LegacyDefaultButton"
+        },
+        {
+            "id": "481621a0-127e-11e9-85c1-cb7a601e9cba",
+            "component": "EkoGroup",
+            "props": {
+                "config": {
+                    "parentElement": "root",
+                    "enableTransition": true,
+                    "stateSourceId": "node_orange_first_took_both_idle_73cc3c",
+                    "fitToVideo": true,
+                    "transitionInDuration": 0.60000002384186,
+                    "transitionOutDuration": 0.60000002384186,
+                    "children": [
+                        "timer_orange_first_took_both_idle_e02c17",
+                        "button_orange_first_took_both_idle_729fda"
+                    ]
+                }
+            }
+        },
+        {
+            "id": "timer_orange_first_took_both_idle_e02c17",
+            "props": {
+                "config": {
+                    "stateSourceId": "node_orange_first_took_both_idle_73cc3c",
+                    "parentElement": null,
+                    "enableTransition": false,
+                    "text": "Timer1",
+                    "style": {
+                        "top": 35,
+                        "left": 759,
+                        "width": "60px",
+                        "height": "60px",
+                        "visibility": "hidden",
+                        "opacity": 1,
+                        "transform": "rotate(0deg)",
+                        "transformOrigin": "0 0",
+                        "--font": "Nixie One",
+                        "--color": "#F3F4F4"
+                    },
+                    "handlers": [
+
+                    ]
+                }
+            },
+            "component": "LegacyPureTimer"
+        },
+        {
+            "id": "button_orange_first_took_both_idle_729fda",
+            "props": {
+                "config": {
+                    "stateSourceId": "node_orange_first_took_both_idle_73cc3c",
+                    "parentElement": null,
+                    "enableTransition": false,
+                    "text": "orange first took both idle",
+                    "style": {
+                        "top": 334,
+                        "left": 226,
+                        "width": "373px",
+                        "height": "46px",
+                        "visibility": "hidden",
+                        "opacity": 1,
+                        "transform": "rotate(0deg)",
+                        "transformOrigin": "0 0",
+                        "--color": "#61C9DB",
+                        "--font": "Roboto Slab",
+                        "--font-size": "26px",
+                        "--text-color": "#ffffff",
+                        "--line-height": "26px",
+                        "--letter-spacing": "1",
+                        "--text-align": "center",
+                        "--text-box-align": "center",
+                        "--text-box-vertical-align": "center",
+                        "--word-wrap": "nowrap"
+                    },
+                    "handlers": [
+                        {
+                            "type": "DECISION_SELECT",
+                            "decisionId": "node_orange_first_took_both_idle_73cc3c",
+                            "targetNode": "node_orange_first_took_both_idle_73cc3c",
+                            "connectOn": "NODE_END"
+                        },
+                        {
+                            "type": "PLAY_SOUND",
+                            "audioId": "audio_ding_sound_82f202"
+                        },
+                        {
+                            "type": "REPORT_INTERACTION",
+                            "id": "button_orange_first_took_both_idle_729fda",
+                            "data": {
+
+                            },
+                            "options": {
+                                "trackAnalytics": true,
+                                "analyticsData": {
+                                    "interactionElementName": "button_orange_first_took_both_idle_729fda",
+                                    "interactionTriggerType": "click",
+                                    "interactionActionType": "decision",
+                                    "interactionSelectedNodeId": "node_orange_first_took_both_idle_73cc3c"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "component": "LegacyDefaultButton"
+        },
+        {
+            "id": "33caf8b0-127e-11e9-85c1-cb7a601e9cba",
+            "component": "EkoGroup",
+            "props": {
+                "config": {
+                    "parentElement": "root",
+                    "enableTransition": true,
+                    "stateSourceId": "node_orange_first_idle_abe8ee",
+                    "fitToVideo": true,
+                    "transitionInDuration": 0.60000002384186,
+                    "transitionOutDuration": 0.60000002384186,
+                    "children": [
+                        "button_orange_first_idle_1df2e3",
+                        "button_orange_first_idle_045673",
+                        "button_orange_first_idle_024bda"
+                    ]
+                }
+            }
+        },
+        {
+            "id": "button_orange_first_idle_1df2e3",
+            "props": {
+                "config": {
+                    "stateSourceId": "node_orange_first_idle_abe8ee",
+                    "parentElement": null,
+                    "enableTransition": false,
+                    "text": "Take Banana",
+                    "style": {
+                        "top": 251,
+                        "left": 413,
+                        "width": "196px",
+                        "height": "46px",
+                        "visibility": "visible",
+                        "opacity": 1,
+                        "transform": "rotate(0deg)",
+                        "transformOrigin": "0 0",
+                        "--color": "#f4ff14",
+                        "--bg-color": "#4e2727",
+                        "--font": "Dosis",
+                        "--font-size": "26px",
+                        "--text-color": "#ffffff",
+                        "--line-height": "26px",
+                        "--letter-spacing": "1",
+                        "--text-align": "center",
+                        "--text-box-align": "center",
+                        "--text-box-vertical-align": "center",
+                        "--word-wrap": "nowrap"
+                    },
+                    "handlers": [
+                        {
+                            "type": "DECISION_SELECT",
+                            "decisionId": "node_orange_first_idle_abe8ee",
+                            "targetNode": "node_banana_first_take_banana_cb135e",
+                            "connectOn": "CLICK"
+                        },
+                        {
+                            "type": "PLAY_SOUND",
+                            "audioId": "audio_ding_sound_82f202"
+                        },
+                        {
+                            "type": "REPORT_INTERACTION",
+                            "id": "button_orange_first_idle_1df2e3",
+                            "data": {
+
+                            },
+                            "options": {
+                                "trackAnalytics": true,
+                                "analyticsData": {
+                                    "interactionElementName": "button_orange_first_idle_1df2e3",
+                                    "interactionTriggerType": "click",
+                                    "interactionActionType": "decision",
+                                    "interactionSelectedNodeId": "node_banana_first_take_banana_cb135e"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "component": "LegacyTagButton"
+        },
+        {
+            "id": "button_orange_first_idle_045673",
+            "props": {
+                "config": {
+                    "stateSourceId": "node_orange_first_idle_abe8ee",
+                    "parentElement": null,
+                    "enableTransition": false,
+                    "text": "Take Orange",
+                    "style": {
+                        "top": 198,
+                        "left": 412,
+                        "width": "200px",
+                        "height": "46px",
+                        "visibility": "visible",
+                        "opacity": 1,
+                        "transform": "rotate(0deg)",
+                        "transformOrigin": "0 0",
+                        "--color": "#ff9600",
+                        "--bg-color": "black",
+                        "--font": "Dosis",
+                        "--font-size": "26px",
+                        "--text-color": "#ffffff",
+                        "--line-height": "26px",
+                        "--letter-spacing": "1",
+                        "--text-align": "center",
+                        "--text-box-align": "center",
+                        "--text-box-vertical-align": "center",
+                        "--word-wrap": "nowrap"
+                    },
+                    "handlers": [
+                        {
+                            "type": "DECISION_SELECT",
+                            "decisionId": "node_orange_first_idle_abe8ee",
+                            "targetNode": "node_orange_first_take_orange_dbb620",
+                            "connectOn": "CLICK"
+                        },
+                        {
+                            "type": "PLAY_SOUND",
+                            "audioId": "audio_ding_sound_82f202"
+                        },
+                        {
+                            "type": "REPORT_INTERACTION",
+                            "id": "button_orange_first_idle_045673",
+                            "data": {
+
+                            },
+                            "options": {
+                                "trackAnalytics": true,
+                                "analyticsData": {
+                                    "interactionElementName": "button_orange_first_idle_045673",
+                                    "interactionTriggerType": "click",
+                                    "interactionActionType": "decision",
+                                    "interactionSelectedNodeId": "node_orange_first_take_orange_dbb620"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "component": "LegacyTagButton"
+        },
+        {
+            "id": "button_orange_first_idle_024bda",
+            "props": {
+                "config": {
+                    "stateSourceId": "node_orange_first_idle_abe8ee",
+                    "parentElement": null,
+                    "enableTransition": false,
+                    "text": "orange first idle",
+                    "style": {
+                        "top": 20,
+                        "left": 20,
+                        "width": "240px",
+                        "height": "46px",
+                        "visibility": "hidden",
+                        "opacity": 1,
+                        "transform": "rotate(0deg)",
+                        "transformOrigin": "0 0",
+                        "--color": "#61C9DB",
+                        "--font": "Roboto Slab",
+                        "--font-size": "26px",
+                        "--text-color": "#ffffff",
+                        "--line-height": "26px",
+                        "--letter-spacing": "1",
+                        "--text-align": "center",
+                        "--text-box-align": "center",
+                        "--text-box-vertical-align": "center",
+                        "--word-wrap": "nowrap"
+                    },
+                    "handlers": [
+                        {
+                            "type": "DECISION_SELECT",
+                            "decisionId": "node_orange_first_idle_abe8ee",
+                            "targetNode": "node_orange_first_idle_abe8ee",
+                            "connectOn": "NODE_END"
+                        },
+                        {
+                            "type": "PLAY_SOUND",
+                            "audioId": "audio_ding_sound_82f202"
+                        },
+                        {
+                            "type": "REPORT_INTERACTION",
+                            "id": "button_orange_first_idle_024bda",
+                            "data": {
+
+                            },
+                            "options": {
+                                "trackAnalytics": true,
+                                "analyticsData": {
+                                    "interactionElementName": "button_orange_first_idle_024bda",
+                                    "interactionTriggerType": "click",
+                                    "interactionActionType": "decision",
+                                    "interactionSelectedNodeId": "node_orange_first_idle_abe8ee"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "component": "LegacyDefaultButton"
+        }
+    ]
+}
